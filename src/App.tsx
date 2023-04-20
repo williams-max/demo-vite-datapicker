@@ -9,7 +9,6 @@ import { DatePicker } from '@mui/x-date-pickers/DatePicker';
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
